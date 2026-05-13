@@ -1,0 +1,12 @@
+streamlit>=1.35
+pandas>=2.0
+numpy>=1.25
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+statsmodels>=0.14
+pingouin>=0.5
+statannotations>=0.7
+svgutils>=0.3
+pillow>=10.0
+pytest>=8.0
