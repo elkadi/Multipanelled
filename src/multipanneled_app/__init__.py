@@ -1,0 +1,1 @@
+"""Multipanneled Streamlit application package."""
