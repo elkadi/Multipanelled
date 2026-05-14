@@ -12,7 +12,7 @@ from src.multipanneled_app import stats as stats_mod
 from src.multipanneled_app import spectra as sp
 
 st.set_page_config(page_title="Multipanelled", layout="wide")
-st.title("Multipanelled Figure Builder")
+st.title("Multi-panel Figure Builder")
 
 for key, default in [("datasets", {}), ("panel_tray", []), ("stats_tables", {})]:
     if key not in st.session_state:
